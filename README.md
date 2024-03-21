@@ -6,3 +6,4 @@ My network programming learning record.
 > 实现select, poll, epoll(LT, ET) 2024.3.11
 >
 > 使用epoll实现非阻塞的IO多路复用，解决C1000K问题，并实现事件分离器，但真正的处理器并没有完成 2024.3.21
+> 实现客户端并发持续连接服务器，测试C1000K问题。

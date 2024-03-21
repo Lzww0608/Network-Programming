@@ -11,3 +11,5 @@ My network programming learning record.
 > 测试setjmp/longjmp实现函数跳转————协程状态转换的方法之一 2024.3.21
 >
 > 测试ucontext实现函数跳转————模拟协程resume/yield过程 2024.3.21
+>
+> 实现hook进行函数跳转上下文切换 2024.3.21
